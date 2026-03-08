@@ -81,3 +81,14 @@ These metrics aim to capture managerial tone dynamics and communication risk.
 - PyTorch
 - Pandas / NumPy / Matplotlib
 
+---
+
+### Key Skills Demonstrated
+
+- Financial-domain NLP (FinBERT)
+- Transformer-based sentiment modeling
+- Text-derived factor construction
+- Risk signal engineering
+- Quantitative data processing (Python, Pandas)
+- Applied financial research workflow
+
