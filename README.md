@@ -1,5 +1,3 @@
-# AI-Earnings-Call-Sentiment-Risk-Factor
-
 # AI Earnings Call Sentiment Risk Factor Construction
 
 An NLP-Based Framework for Extracting Text-Derived Risk Signals from Earnings Call Transcripts.
